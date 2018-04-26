@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<a:clrScheme xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" 
+name="SHIFT Multiple 3">
+<a:dk1><a:sysClr val="windowText" lastClr="000000"/></a:dk1>
+<a:lt1><a:sysClr val="window" lastClr="FFFFFF"/></a:lt1>
+<a:dk2><a:srgbClr val="3A3838"/></a:dk2>
+<a:lt2><a:srgbClr val="A5A5A5"/></a:lt2>
+<a:accent1><a:srgbClr val="27AE60"/></a:accent1>
+<a:accent2><a:srgbClr val="8E44AD"/></a:accent2>
+<a:accent3><a:srgbClr val="F39C12"/></a:accent3>
+<a:accent4><a:srgbClr val="C0392B"/></a:accent4>
+<a:accent5><a:srgbClr val="2C3E50"/></a:accent5>
+<a:accent6><a:srgbClr val="7F8C8D"/></a:accent6>
+<a:hlink><a:srgbClr val="A05024"/></a:hlink>
+<a:folHlink><a:srgbClr val="FEC037"/>
+</a:folHlink></a:clrScheme>
