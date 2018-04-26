@@ -1,7 +1,7 @@
 # GDQP_presentation7
 Personal presentation materials in GDQP. This materials base on Axa template under license.\
 Microsoft Office 2016/2016+/365\
-Install all fonts and colors before open the presentation.\
+Install all fonts and colors before open the presentation.
 
 Copyright (c) 2018 Duy Huynh
 
